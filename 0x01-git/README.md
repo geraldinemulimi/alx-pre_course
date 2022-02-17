@@ -1,3 +1,2 @@
 ## This is the directory of my project 
-The directory has a file 
-I am learning how to code
+The directory has several files including this one.
